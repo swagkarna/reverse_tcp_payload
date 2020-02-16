@@ -25,6 +25,8 @@ Session Commands:
 - help       =          Get more info about the shell commands
 - background =          Return so Sessions Menu but keep the session active
 - termiante  =          Finish the session
+
+
  Install The Requirements
  1.pip install pypiwin32
  2.pip install pillow
